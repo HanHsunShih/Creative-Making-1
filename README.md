@@ -3,17 +3,14 @@
 ### Concept
 I owned a cat back in Taiwan but couldn’t bring him here, whenever I feel lonely I would think about him. I think it’s better for me to have a pet here to keep my company but sometimes I travel around so I couldn’t take care of it all the time. It’s better to create a mechanical pet rather than owning a real one.<br>
 [C++ code](https://git.arts.ac.uk/20032092/Creative-Making-Final-Project/blob/main/221207finalCode.ino)<br>
-[Youtube Video](https://www.youtube.com/watch?v=bXSrquHCi6g&ab_channel=hanhsunshih)
-<!--![IMG_5681](https://git.arts.ac.uk/storage/user/604/files/6c6fcad7-b8fb-4d0d-b7fe-4fbc4602f0e8)-->
-<!--![IMG_6582](https://git.arts.ac.uk/storage/user/604/files/b29acf7b-bc1d-4315-921b-3a4d054a79d5)-->
-<img src="https://git.arts.ac.uk/storage/user/604/files/6c6fcad7-b8fb-4d0d-b7fe-4fbc4602f0e8" width="600">
+[Youtube Video](https://www.youtube.com/watch?v=bXSrquHCi6g&ab_channel=hanhsunshih)<br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/6c6fcad7-b8fb-4d0d-b7fe-4fbc4602f0e8" width="600"><br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/b29acf7b-bc1d-4315-921b-3a4d054a79d5" width="600"><br>
 
-I like a calm pet as my cat so a mechanical pet combined with both plant and animal‘s characteristic might be great.
-
- ![Untitled_Artwork](https://git.arts.ac.uk/storage/user/604/files/a6b3e383-e150-497a-a18d-f42a6888aafe)
-In my riginal idea, I wanted to make an interactive pet that could be placed next to a computer or a windowsill. The base is a heavy cuboid, and an object similar to a flower bud is suspended by an elastic steel wire. It will change its shape with the light. When it detects someone nearby with an infrared sensor, it will emit light of different colors and have A motor drives him to spin.
-
-![Untitled_Artwork 2](https://git.arts.ac.uk/storage/user/604/files/016eabf8-af61-4a30-84e6-e98d945f419a)
+I like a calm pet as my cat so a mechanical pet combined with both plant and animal‘s characteristic might be great.<br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/a6b3e383-e150-497a-a18d-f42a6888aafe" width="600"><br>
+In my riginal idea, I wanted to make an interactive pet that could be placed next to a computer or a windowsill. The base is a heavy cuboid, and an object similar to a flower bud is suspended by an elastic steel wire. It will change its shape with the light. When it detects someone nearby with an infrared sensor, it will emit light of different colors and have A motor drives him to spin.<br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/016eabf8-af61-4a30-84e6-e98d945f419a" width="600"><br>
 
 
 ## Week 6(11/7-11/11)
@@ -22,8 +19,8 @@ This week I identified all the materials I would end up using and then designed 
 - I decided to change the base into a larger cuboid, because it will be much larger if all the components are assembled together and the wires are added.
 The linear actuator itself is too long, and its size is larger than I expected, so I changed it from the original fishing shape to a flower that grows upright.
 - The servo motor was used to rotate the whole device, but it was too small to drive enough, so it was changed to design a smaller object next to the original main flower bud, and the servo motor would respond when a person was detected.
-- I wanted to use an infrared sensor to detect whether there are people around, but later I changed it to a sound sensor to detect the volume of the surrounding area, and then change the color of the light and drive the servo motor under certain conditions.
-![Untitled_Artwork 3](https://git.arts.ac.uk/storage/user/604/files/ab0b2cd0-6294-40ff-b832-32fdc5c9ca9a)
+- I wanted to use an infrared sensor to detect whether there are people around, but later I changed it to a sound sensor to detect the volume of the surrounding area, and then change the color of the light and drive the servo motor under certain conditions.<br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/ab0b2cd0-6294-40ff-b832-32fdc5c9ca9a" width="250"><br>
 - INPUTS: light detect sensor, sound detect sensor
 - OUTPUTS: linear actuator, neopixcel strips, servo motor
 
@@ -31,22 +28,22 @@ The linear actuator itself is too long, and its size is larger than I expected, 
 ### L289N Motor Driver
 I used L289N Motor Driver to control if the linear actuator should stretch or curtail by some simple function.
 Before that, I try to motivated a AC motor first.
-I used L289N Motor Driver to control if the linear actuator should stretch or curtail by some simple function
-![w7L289NMotor](https://git.arts.ac.uk/storage/user/604/files/172a5eca-fe6f-4c9e-9a5b-152dda23f9c6)
+I used L289N Motor Driver to control if the linear actuator should stretch or curtail by some simple function<br>
+<img src="https://git.arts.ac.uk/storage/user/604/files/172a5eca-fe6f-4c9e-9a5b-152dda23f9c6" width="250"><br>
 https://www.youtube.com/watch?v=PZqGPCIGEM0&ab_channel=hanhsunshih
 
 
 ### laser cutter
 I booked an induction to learn how to use laser cutter and cut some components for making housing
-![w7laserCutter](https://git.arts.ac.uk/storage/user/604/files/fa32b7c5-9b63-4678-8b25-5b16f760676f)
-![IMG_5733](https://git.arts.ac.uk/storage/user/604/files/a0d3822a-0f38-4c88-a38f-9021e3a0c51e)
-![IMG_5734](https://git.arts.ac.uk/storage/user/604/files/1a16815f-2203-4773-855d-957c3bc5e0c6)
+<img src="https://git.arts.ac.uk/storage/user/604/files/fa32b7c5-9b63-4678-8b25-5b16f760676f" width="600">
+<img src="https://git.arts.ac.uk/storage/user/604/files/a0d3822a-0f38-4c88-a38f-9021e3a0c51e" width="600">
+<img src="https://git.arts.ac.uk/storage/user/604/files/1a16815f-2203-4773-855d-957c3bc5e0c6" width="600">
 
 
 ## Week 8(11/21-11/25)
 ### sound detection sensor to ultrasonic sensor
 This week I changed my mind from using sound detector into using ultrasonic sensor since I found that sound detection sensor was not accurate as ultrasonic sensor
-![w8L289N_pushActuator](https://git.arts.ac.uk/storage/user/604/files/88923f60-20c6-4935-b792-3ec7457e77bc)
+<img src="https://git.arts.ac.uk/storage/user/604/files/88923f60-20c6-4935-b792-3ec7457e77bc" width="600">
 - https://youtu.be/PZqGPCIGEM0?t=13
 For the coding, I classify different distance it detects into 5 categories, and use switch statement to change the light colour.
 ```
@@ -100,8 +97,7 @@ Also this week I spent lots of time on coding which has a purpose to control how
 <img width="618" alt="截圖 2022-12-06 18 29 12" src="https://git.arts.ac.uk/storage/user/604/files/fc31d16a-8975-48bd-84ee-5091a076ab94">
 
 - then I did some calculate to understand the reletivity between datas
-
-![IMG_5648](https://git.arts.ac.uk/storage/user/604/files/a07e7fd0-0269-4908-b8f5-5b945ab696a9)
+<img src="https://git.arts.ac.uk/storage/user/604/files/a07e7fd0-0269-4908-b8f5-5b945ab696a9" width="600">
 <img width="540" alt="截圖 2022-12-06 18 29 23" src="https://git.arts.ac.uk/storage/user/604/files/1912ecec-fcd7-475d-a135-3558dc57c246">
 
 At the beginning, I can only use the simplest function to control its elongation or shortening.
